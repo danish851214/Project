@@ -1,12 +1,4 @@
-# Project
-Real Estate Management System 
-Instructions: How to Run?
-After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
-There you’ll find a folder named “htdocs”.
-Paste the project folder (not the .zip one, but the extracted one) inside the “htdocs” folder.
-Open your favourite browser; we recommend using Google Chrome or Mozilla Firefox.
-Then, go to the URL “http://localhost/phpmyadmin“.
-Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT Info.txt”.
-Click on the “Import” tab and choose the database file (.sql) provided under the folder “DATABASE FILE.”
-After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
-All the login details are provided inside the project folder. Check that out and enter them in order to use it.
+![printer](https://github.com/user-attachments/assets/203dc2df-28da-4aff-8014-4949b1dc5ec0)
+![Logi-in page](https://github.com/user-attachments/assets/e3be813e-1e73-4a39-9547-5f2e6ebf954d)
+![Home_page](https://github.com/user-attachments/assets/5cac6931-6114-4b08-824c-7d0e83d11d9f)
+![Body page](https://github.com/user-attachments/assets/d1b74145-3cec-4f08-9044-4504dcbb43b5)
